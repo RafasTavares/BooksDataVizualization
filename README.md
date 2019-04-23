@@ -1,5 +1,5 @@
 # BooksDataVizualization :bookmark:
-Tops references for Data Vizualization :top:
+**Top**s references for studies in ***data vizualization*** :top:
 
 1. ### Handbook of Computational Statistics
    > Concepts and Methods 
