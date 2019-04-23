@@ -10,6 +10,6 @@ Tops references for Data Vizualization :top:
 
 
 2. ### Handbook of Data Visualization
-   > With 569 Figuresand 50 Tables :ok_hand: :open_mouth:
+   > With 569 Figuresand 50 Tables :open_mouth::ok_hand: 
    
     <sup>Editors: C. Chen, W. Härdle and A. Unwin</sup>
